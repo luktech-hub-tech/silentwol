@@ -7,7 +7,7 @@
 </div> 
 
 <p align="center">
-  <img style="width: 500px; height: 400px; border-radius: 20px; box-shadow: 0 0 30px #00ff00, 0 0 50px rgba(0, 255, 0, 0.3);" src="https://i.ibb.co/HDCwvyhT/wolfbot.jpg" alt="Wolf Bot — Silent Wolf Aura" />
+  <img style="width: 500px; height: 400px; border-radius: 20px; box-shadow: 0 0 30px #00ff00, 0 0 50px rgba(0, 255, 0, 0.3);" src="https://i.ibb.co/KjMFtjGx/wolfbot.png" alt="Wolf Bot — Silent Wolf Aura" />
 </p>
 
 <div align="center">
